@@ -1,0 +1,20 @@
+{
+    "//------//--------":"below mesage is API response comment ",
+
+    "SUCCESS": "response returned successfully",
+    "ERROR_EMAIL_NOT_REGISTERED" : "This email is not yet registered!",
+    "ERROR_INVALID_EMAIL_PWD" : "This email or password is invalid!",
+    "NOT_FOUND":"data not found",
+    "BAD_REQUEST":"please enter valid request data",
+    "CREATED" : "data created",
+    "NOT_ACCEPTABLE":"data already found",
+    "UPDATED" :"data updated",
+    "DELETED" :"deleted successfully",
+    "PERMISSION" :"you don't have permission",
+    "TOKENEXPIRE" :"token expire",
+    "EMPTYTOKEN" :"please enter token",
+    "UNAUTHORIZED":"User Unauthorized",
+    "IDNOTPROPER" :"requested id not proper",
+    "PROFILE_SETUP":"profile set successfully",
+    "NOTCREATED":"please try agian"
+}

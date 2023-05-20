@@ -1,0 +1,6 @@
+{
+    "db": {
+        "uri": "mongodb+srv://admin:WhiteStorkTest123@cluster0.llftlmi.mongodb.net/Demo?retryWrites=true&w=majority",
+        "name": "whiteStork"
+    }
+}
